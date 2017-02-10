@@ -2,5 +2,15 @@ td {
     width: 80px;
     height: 80px;
     border-radius: 50%;
+    background-color: white;
+}
+
+#grid {
     background-color: blue;
+}
+button {
+    width: 83px;
+    height: 80px;
+    border: solid 5px purple;
+    background-color: lime;
 }
